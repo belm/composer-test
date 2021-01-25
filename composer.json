@@ -9,12 +9,12 @@
         {
             "name": "belm",
             "email": "belm@vip.qq.com",
-            "homepage": "https://www.belmeng.com/"
+            "homepage": "https://www.belmeng.com"
         }
     ],
     "require": {
         "geoip2/geoip2": "~2.0",
-        "php": ">=7.2",
+        "php": ">=7.2"
     },
     "autoload": {
         "psr-4": {
