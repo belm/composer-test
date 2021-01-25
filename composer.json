@@ -1,0 +1,7 @@
+{
+    "name": "belm/composer_test",
+    "description": "A short description of what your package does",
+    "require": {
+        "php": ">=7.4",
+    }
+}
