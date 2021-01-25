@@ -34,4 +34,8 @@ Class GeoIp2{
 
         print($record->traits->network . "\n"); // '128.101.101.101/32'
     }
+
+    static public function test(){
+        echo 'hello world';
+    }
 }
